@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\julit\Source\Repos\julitis\17Mayo\clase17\obj\Debug\net6.0-windows\
+C:\Users\julit\source\repos\julitis\17Mayo\clase17\obj\Debug\net6.0-windows\
 clase17
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\julit\Source\Repos\julitis\17Mayo\clase17\App.xaml
-11407045341
+C:\Users\julit\source\repos\julitis\17Mayo\clase17\App.xaml
+21940794329
 
-51011361130
+61940700842
 1941142463650
-MainWindow.xaml;
+MainWindow.xaml;Window1.xaml;
 
-False
+True
 

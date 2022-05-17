@@ -1,5 +1,5 @@
 ﻿clase17
-
+1.0.0.0
 
 winexe
 C#
@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\julit\source\repos\julitis\17Mayo\clase17\App.xaml
-11407045341
+21940794329
 
-3-1233169557
+51011361130
 1941142463650
-MainWindow.xaml;
+MainWindow.xaml;Window1.xaml;
 
-False
+True
 
