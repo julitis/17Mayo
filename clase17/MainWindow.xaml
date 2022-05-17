@@ -9,7 +9,7 @@
     <Grid>
         <TextBox x:Name="TxtBox" HorizontalAlignment="Left" Margin="296,38,0,0" TextWrapping="Wrap" Text="&#xD;&#xA;" VerticalAlignment="Top" Width="185" Height="47"/>
         <Button x:Name="Btn" Content="Botón" HorizontalAlignment="Left" Margin="327,115,0,0" VerticalAlignment="Top" Height="38" Width="73" Click="Btn_Click"/>
-        <TextBlock x:Name="TxtBlock" HorizontalAlignment="Left" Margin="273,0,0,0" TextWrapping="Wrap" VerticalAlignment="Center" Height="38" Width="107" Text="Su texto es:"/>
+        <TextBlock x:Name="TxtBlock" HorizontalAlignment="Left" Margin="206,179,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="38" Width="107"/>
 
     </Grid>
 </Window>
