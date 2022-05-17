@@ -24,5 +24,10 @@ namespace clase17
         {
             InitializeComponent();
         }
+
+        private void Btn_Click(object sender, RoutedEventArgs e)
+        {
+            TxtBlock.Text = "Hola"+TxtBox.Text;
+        }
     }
 }
